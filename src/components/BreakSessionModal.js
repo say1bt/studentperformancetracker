@@ -83,10 +83,6 @@ const StyledButton = styled.button`
   }
 `;
 
-const DateTimePickerWrapper = styled.div`
-  margin-bottom: 10px;
-`;
-
 const ErrorMessage = styled.p`
   color: red;
   font-size: 14px;
